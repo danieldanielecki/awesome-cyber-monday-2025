@@ -36,6 +36,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [React PDF](https://www.react-pdf.dev/?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=awesome-cyber-monday-2025) | React PDF is a React 18/19 + Next.js-ready PDF viewer, offering customizable UI, search, thumbnails, and smooth rendering optimized for large documents. | 30% OFF Developer / 40% OFF Organization (auto-applied) | [Get Deal](https://www.react-pdf.dev/pricing?utm_source=github&utm_medium=referral&utm_campaign=bfcm2025&utm_content=awesome-cyber-monday-2025) | Nov 17 - Dec 1 |
 | [RunJS](https://runjs.app) | JavaScript and TypeScript playground. Zero config needed. Write and run code with instant feedback. | **30% OFF** with code **BLACKFRIDAY2025** | Nov 17 - Dec 2 | 
 | [Scrape Creators](https://scrapecreators.com/) | Real-time social media scraping API | Use code BLACKFRIDAY2025 for 50% OFF | [Get Deal](https://scrapecreators.com/) | Nov 28 only |
+| [Hoverify](https://tryhoverify.com/) | All-in-one browser extension for web developers that helps you inspect, edit, test, debug, capture, and optimize websites faster. | 30% OFF on yearly subscription and LTD, no coupon needed | [Get Deal](https://tryhoverify.com/#pricing) | Nov 24 - Dec 4 |
 
 ## 🎨 Design Software
 
@@ -48,6 +49,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 |[MGC Animation](https://www.mingcute.com/animation?utm_source=punk) | 120+ lively and smooth animated icons | 30% OFF with code **BF2025** | [Get Deal](https://store.mingcute.com/?utm_source=punk) | Nov 15 - Dec 5 |
 |[MGC Weather](https://mgcweather.framer.website/?utm_source=punk) | 120 graceful weather icons | 30% OFF with code **BF2025** | [Get Deal](https://store.mingcute.com/?utm_source=punk) | Nov 15 - Dec 5 |
 | [Litur(macOS)](https://litur.app) | A designer’s best-kept secret, a developer's best friend. Litur helps you manage and improve your colors design workflow. | 30% OFF - NO CODE REQUIRED | [Get Deal](https://litur.app) | Nov 24th - Dec 4th |
+| [Recut](https://getrecut.com) | Edit your videos faster with automatic silence removal | $50 OFF (automatic) | [Get Deal](https://getrecut.com/?ref=awesome-cyber-monday) | Nov 3rd - Dec 1st |
 
 ## 📚 Courses & Learning
 
@@ -64,6 +66,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Transcript LOL](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025)| Unlimited ai transcriptions, summaries, chat |  20% OFF with code **BF2025** (70% off on annual plans) | [Redeem deal](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 15 - Dec 7|
 | [SharpAPI](https://sharpapi.com/en/pricing) | AI-powered workflow automation API (e-commerce, marketing, HR & more) | **50% OFF** (use code `BF2025`) | [Get Deal](https://sharpapi.com/en/pricing) | Nov 24 – Dec 3 |  
 | [ChatUML](https://chatuml.com) | Generate Professional UML Diagrams with AI | **40% OFF** (use code `BLACKFRI25`) | [Get Deal](https://chatuml.com) | Nov 24 – Dec 1 |  
+| [Notion Backups](https://notionbackups.com) | Easily back up and restore Notion workspaces | **40% off** on annual plans vs monthly pricing | [Get Started](https://notionbackups.com) | Nov 20 – Dec 4 |
 
 ## 🔧 Productivity Tools
 
@@ -110,6 +113,13 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 |---------|-------------|----------|-----------|-------|
 | [AskCory](https://marketing.askcory.ai/) |	Elevate your marketing strategy with AI. Create customised plans and access industry benchmarks in minutes. | 67% OFF on all plans with code CM25 | [Get Deal](https://marketing.askcory.ai/billing) | Nov 28 - Dec 1 |
 | [UXWizz](https://www.uxwizz.com?ref=acm-2025) | Self-hosted Website Analytics with Session Recordings, Heatmaps, Error Tracking, AI and more. | 50% OFF - Buy Once, Use Forever | [Get Deal](https://uxwizz.com/pricing?ref=acm-2025) | Nov 23 - Dec 1 |
+| [Ring Tonic](https://ringtonic.app?ref=acm-2025) | Ring Tonic is a modern AI-Powered Call Tracking & Analytics platform that helps businesses understand which marketing efforts drive phone calls, automatically qualify leads, and extract valuable insights from every conversation—without the traditional 400-500% markup competitors charge. | 35% OFF & Lifetime Deal | [Get Deal](https://ringtonic.app/pricing?ref=acm-2025) | Nov 23 - Dec 2 |
+
+## 🔎 SEO
+
+| Product | Description | Discount | Deal Link | Dates |
+|---------|-------------|----------|-----------|-------|
+| [SEO Utils](https://seoutils.app?ref=acm-2025) | All-in-one SEO platform for traditional SEO, local SEO, and AI Search Optimization (GEO/AEO). Track rankings across Google, Google Maps, Bing, ChatGPT, AI Overviews, and AI Mode with powerful analytics and automation. Enjoy privacy-first GSC integration with data retention beyond 16 months, SERP & semantic clustering, topic clusters, and auto-indexing for Google, Bing, Yandex, and more. | 20% OFF & Lifetime Deal | [Get Deal](https://seoutils.app/pricing?ref=acm-2025) | Nov 23 - Dec 2 |
 
 ---
 
