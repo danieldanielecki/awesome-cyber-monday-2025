@@ -24,6 +24,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 - [🎮 Hardware & Gadgets](#-hardware--gadgets)
 - [🔐 Security & Privacy](#-security--privacy)
 - [📊 Analytics & Marketing](#-analytics--marketing)
+- [🌐 Wordpress](#-wordpress)
 
 ---
 
@@ -149,6 +150,15 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 |---------|-------------|----------|-----------|-------|
 | [SEO Utils](https://seoutils.app?ref=acm-2025) | All-in-one SEO platform for traditional SEO, local SEO, and AI Search Optimization (GEO/AEO). Track rankings across Google, Google Maps, Bing, ChatGPT, AI Overviews, and AI Mode with powerful analytics and automation. Enjoy privacy-first GSC integration with data retention beyond 16 months, SERP & semantic clustering, topic clusters, and auto-indexing for Google, Bing, Yandex, and more. | 20% OFF & Lifetime Deal | [Get Deal](https://seoutils.app/pricing?ref=acm-2025) | Nov 23 - Dec 2 |
 | [Checkbot: SEO checker extension](https://www.checkbot.io/) | Checkbot for Chrome tests 100s of pages at a time for SEO/speed/security problems like broken links, duplicate titles/headings/pages, invalid HTML/CSS/JavaScript, insecure pages, redirect chains and more. Test unlimited sites as often as you want including local/development sites. | 50% off first year on yearly plans | [Get Deal](https://www.checkbot.io/?coupon=NOV25) | Nov 25 - Dec 5 |
+
+## 🌐 Wordpress
+
+| Product | Description | Discount | Deal Link | Dates |
+|---------|-------------|----------|-----------|-------|
+| Bit Form | Advanced Drag & Drop Contact Form Builder Plugin for WordPress. Easily Create Multi-Step Form, Conversational Form, and Payment Forms & all kinds of dynamic forms | Upto 74% off | [Get Deal](https://bit-form.com/special-discount/?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 23 - Nov 30 |
+| Bit Integrations | Bit Integrations is a powerful no-code automation plugin and workflow automator built for WordPress users who want to simplify workflows and boost productivity — without writing a single line of code. | Upto 50% off | [Get Deal](https://bit-integrations.com/special-discount/?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 23 - Nov 30 |
+| Bit Flow | Bit Flows is an Advanced, Super Fast, Drag & Drop automation plugin. Automation feels like Zapier inside WordPress. | Upto 45 %off | [Get Deal](https://bit-flows.com/special-discount/?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 23 - Nov 30 |
+| Bit Social | Bit Social is an Advanced Social Media Scheduling and Auto Posting plugin for WordPress, making it the top alternative to Buffer and Publer. | Upto 62% off | [Get Deal](https://bit-social.com/special-discount/?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 23 - Nov 30 |
 
 ---
 
