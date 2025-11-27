@@ -65,6 +65,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [1:1 Guide for Engineering Managers](https://karloscodes.gumroad.com/l/team-1-1) | A guide for building better 1:1s through trust, encouragement, and real connection. | 60% OFF LIFETIME access | [Get Deal](https://karloscodes.gumroad.com/l/team-1-1/BLACKFDAY26) | Live now |
 | [Codecourse](https://codecourse.com) | Practical screencasts for Laravel developers | 50% off any plan | [Get Deal](https://codecourse.com/pro) | Live now |
 | [Ditectrev Shop](https://shop.ditectrev.com) | Resources in PDF & EPUB formats to pass your next Azure, AWS, GCP, Scrum certification by open-source driven EdTech startup Ditectrev. | 80% OFF | [Get Deal](https://shop.ditectrev.com) | Nov 28th - Dec 1st |
+| [Educative](https://www.educative.io/unlimited?aff=VALz&utm_campaign=affiliate) | Text-based, video-free courses, including set up out-of-the-box for you Cloud Labs to practice hands-on without the need to set up an environment (and payments). | 62% OFF | [Get Deal](https://www.educative.io/unlimited?aff=VALz&utm_campaign=affiliate) | Live now |
 
 ## 🚀 SaaS Products
 
