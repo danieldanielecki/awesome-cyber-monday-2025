@@ -41,6 +41,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Polypane](https://polypane.app/) | The browser for developers who care. Built to streamline responsive design, accessibility, and SEO testing, all in one place. | **22% OFF** all yearly subscriptions |  [Get Deal](https://polyypane.app/black-friday) | Nov 25 - Dec 1 |
 | [Uptimebeats](https://uptimebeats.com/) | Uptime Monitoring and Status Pages. | 10% off on LTD with code BF2025 | [Get Deal](https://uptimebeats.com/pricing) | Nov 24 - Dec 1 |
 | [Tailscan for Tailwind CSS](https://tailscan.com/) | The best devtool browser extension for Tailwind CSS. Now with AI mode: prompt to prototype directly in the browser! | Up to 45% off on yearly, auto-applied. | [Get Deal](https://tailscan.com/#pricing) | Nov 27 - Dec 2 |
+| [A2Plugins.com](https://a2plugins.com/) | Premium JavaScript plugins for web development | Up to 75% OFF on Lifetime license with code "BFCM2025" | [Get Deal](https://raghu.lemonsqueezy.com/) | Nov 27 - Dec 4 |
 
 ## 🎨 Design Software
 
