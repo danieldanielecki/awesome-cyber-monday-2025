@@ -66,6 +66,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Codecourse](https://codecourse.com) | Practical screencasts for Laravel developers | 50% off any plan | [Get Deal](https://codecourse.com/pro) | Live now |
 | [Ditectrev Shop](https://shop.ditectrev.com) | Resources in PDF & EPUB formats to pass your next Azure, AWS, GCP, Scrum certification by open-source driven EdTech startup Ditectrev. | 80% OFF | [Get Deal](https://shop.ditectrev.com) | Nov 28th - Dec 1st |
 | [Educative](https://www.educative.io/unlimited?aff=VALz&utm_campaign=affiliate) | Text-based, video-free courses, including set up out-of-the-box for you Cloud Labs to practice hands-on without the need to set up an environment (and payments). | 62% OFF | [Get Deal](https://www.educative.io/unlimited?aff=VALz&utm_campaign=affiliate) | Live now |
+| [Coursera](https://imp.i384100.net/Qjm4Ba) | Learn from 350+ top universities and companies. | 40% off the annual price | [Get Deal](https://imp.i384100.net/Qjm4Ba) | Ends: December 1, 2025 11:59 PM UTC |
 
 ## 🚀 SaaS Products
 
