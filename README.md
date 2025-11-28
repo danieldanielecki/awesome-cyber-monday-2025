@@ -41,6 +41,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Polypane](https://polypane.app/) | The browser for developers who care. Built to streamline responsive design, accessibility, and SEO testing, all in one place. | **22% OFF** all yearly subscriptions |  [Get Deal](https://polyypane.app/black-friday) | Nov 25 - Dec 1 |
 | [Uptimebeats](https://uptimebeats.com/) | Uptime Monitoring and Status Pages. | 10% off on LTD with code BF2025 | [Get Deal](https://uptimebeats.com/pricing) | Nov 24 - Dec 1 |
 | [Tailscan for Tailwind CSS](https://tailscan.com/) | The best devtool browser extension for Tailwind CSS. Now with AI mode: prompt to prototype directly in the browser! | Up to 45% off on yearly, auto-applied. | [Get Deal](https://tailscan.com/#pricing) | Nov 27 - Dec 2 |
+| [A2Plugins.com](https://a2plugins.com/) | Premium JavaScript plugins for web development | Up to 75% OFF on Lifetime license with code "BFCM2025" | [Get Deal](https://raghu.lemonsqueezy.com/) | Nov 27 - Dec 4 |
 
 ## 🎨 Design Software
 
@@ -67,6 +68,8 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Ditectrev Shop](https://shop.ditectrev.com) | Resources in PDF & EPUB formats to pass your next Azure, AWS, GCP, Scrum certification by open-source driven EdTech startup Ditectrev. | 80% OFF | [Get Deal](https://shop.ditectrev.com) | Nov 28th - Dec 1st |
 | [Educative](https://www.educative.io/unlimited?aff=VALz&utm_campaign=affiliate) | Text-based, video-free courses, including set up out-of-the-box for you Cloud Labs to practice hands-on without the need to set up an environment (and payments). | 62% OFF | [Get Deal](https://www.educative.io/unlimited?aff=VALz&utm_campaign=affiliate) | Live now |
 | [Coursera](https://imp.i384100.net/Qjm4Ba) | Learn from 350+ top universities and companies. | 40% off the annual price | [Get Deal](https://imp.i384100.net/Qjm4Ba) | Ends: December 1, 2025 11:59 PM UTC |
+| [AIDD – AI-Driven Development Masterclass](https://www.aidd.io?friend=VUEPDF) | Learn to code 20x faster with AI using real-world workflows like test generation, code reviews, and repo-aware agents. Includes free bonuses and a 30-day money-back guarantee. | 45% OFF | [Get Deal](https://www.aidd.io?friend=VUEPDF) | Live Now |
+| [Computer Graphics Zines](https://scroll-lock.gumroad.com/l/cgzines) | The perfect cheat sheet for all that want to learn linear algebra and trigonometry in an easy and engaging way. | 50% OFF | **50% OFF** with code **BLACKFRIDAY2025** | Nov 28 - Dec 10 |
 
 ## 🚀 SaaS Products
 
@@ -77,6 +80,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [PostFlow](https://postflow.app/?ref=punk) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | **30% OFF** (LIFETIME) with code **BF2025** | [Get Lifetime Deal](https://postflow.app/?ref=punk) | Nov 24 – Dec 1 |
 | [ChatUML](https://chatuml.com) | Generate Professional UML Diagrams with AI | **40% OFF** (use code `BLACKFRI25`) | [Get Deal](https://chatuml.com) | Nov 24 – Dec 1 |
 | [Notion Backups](https://notionbackups.com) | Easily back up and restore Notion workspaces | **40% off** on annual plans vs monthly pricing | [Get Started](https://notionbackups.com) | Nov 20 – Dec 4 |
+| [Assista](https://assista.io) | Automatic time-tracking for Trello | **50% off FOREVER** with code **BF2025** on all plans | [Get Started](https://assista.io) | Nov 27 – Dec 27 |
 
 ## 🔧 Productivity Tools
 
@@ -96,7 +100,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Timemator](https://timemator.com) |  Tracks your time while you work. Automatically!| Lifetime 50% OFF with code **TM-BLACKFRIDAY25** | [Get Lifetime Deal](https://timemator.com)| Nov 27 - Dec 5 |
 | [WhatPulse](https://whatpulse.org/?ref=acm2025) | WhatPulse maps your time, typing, clicking, and app usage into beautiful stats, and turns them into insights with your personal dashboard. | **35%** on first year on annual plan with code **BFCM2025** | [Get Deal](https://whatpulse.org/?ref=acm2025) | Nov 27 - Dec 3 |
 | [MuteDeck](https://mutedeck.com/?ref=acm2025) | Navigate any call app with consistent controls. Toggle Mute, Video, Record, Share, and Leave a meeting with a single press of a button. | **35%** off perpetual license with code **BFCM2025** | [Get Deal](https://mutedeck.com/?ref=acm2025) | Nov 27 - Dec 3 |
-
+| [Pictura: AI Photo Enhancer](https://apps.apple.com/us/app/pictura-ai-photo-enhancer/id6451364124) | Transform any photo into a crisp, studio-quality image in one tap. With AI-powered sharpening, colorisation, and upscaling (up to 4×), enhance selfies, anime scenes or vintage pictures effortlessly. | **40% OFF** Yearly automatically applied at checkout | [Redeem deal](https://apps.apple.com/us/app/pictura-ai-photo-enhancer/id6451364124) | Nov 27 - Dec 5 |
 
 ## 🌐 Hosting & Infrastructure
 
