@@ -24,6 +24,7 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 - [🎮 Hardware & Gadgets](#-hardware--gadgets)
 - [🔐 Security & Privacy](#-security--privacy)
 - [📊 Analytics & Marketing](#-analytics--marketing)
+- [🌐 Wordpress](#-wordpress)
 
 ---
 
@@ -37,12 +38,17 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [RunJS](https://runjs.app) | JavaScript and TypeScript playground. Zero config needed. Write and run code with instant feedback. | **30% OFF** with code **BLACKFRIDAY2025** | Nov 17 - Dec 2 |
 | [Scrape Creators](https://scrapecreators.com/) | Real-time social media scraping API | Use code BLACKFRIDAY2025 for 50% OFF | [Get Deal](https://scrapecreators.com/) | Nov 28 only |
 | [Hoverify](https://tryhoverify.com/) | All-in-one browser extension for web developers that helps you inspect, edit, test, debug, capture, and optimize websites faster. | 30% OFF on yearly subscription and LTD, no coupon needed | [Get Deal](https://tryhoverify.com/#pricing) | Nov 24 - Dec 4 |
+| [Polypane](https://polypane.app/) | The browser for developers who care. Built to streamline responsive design, accessibility, and SEO testing, all in one place. | **22% OFF** all yearly subscriptions |  [Get Deal](https://polyypane.app/black-friday) | Nov 25 - Dec 1 |
 | [Uptimebeats](https://uptimebeats.com/) | Uptime Monitoring and Status Pages. | 10% off on LTD with code BF2025 | [Get Deal](https://uptimebeats.com/pricing) | Nov 24 - Dec 1 |
+| [Tailscan for Tailwind CSS](https://tailscan.com/) | The best devtool browser extension for Tailwind CSS. Now with AI mode: prompt to prototype directly in the browser! | Up to 45% off on yearly, auto-applied. | [Get Deal](https://tailscan.com/#pricing) | Nov 27 - Dec 2 |
+| [A2Plugins.com](https://a2plugins.com/) | Premium JavaScript plugins for web development | Up to 75% OFF on Lifetime license with code "BFCM2025" | [Get Deal](https://raghu.lemonsqueezy.com/) | Nov 27 - Dec 4 |
+| [Webhookify](https://webhookify.io/) | Developer-friendly desktop tool that captures webhook requests, lets you inspect payloads, and replay them to your local dev server. | **70% OFF** with the code **BLACKFRIDAY2025** (yearly plan) | [Get Deal](https://webhookify.io/pricing) | Ends Dec 14 |
 
 ## 🎨 Design Software
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
+|[Rotato](https://rotato.app) | The original 3D mockup app — photorealistic device videos and images, just like an Apple ad. | 50% OFF with BF2025 | [Get Deal](https://rotato.app/pricing) | Nov 27 - Dec 5 |
 |[Sitely 6](https://sitely.app) | Visual + AI Website Builder for macOS · Build the website you always wanted, visually on your Mac. | 50% OFF - NO CODE REQUIRED | [Get Deal](https://sitely.app/store) | Nov 14 - Dec 5 |
 |[Savvyshot](https://savvyshot.app) | Snap and beautify screenshots instantly on Windows and Mac. | 50% OFF with code **CYBER2025** | [Get Deal](https://savvyshot.app/pricing) | Nov 18 - Dec 5 |
 |[MGC UI](https://mgcui.framer.website/?utm_source=punk) | Design system and UI Kit for Figma | 30% OFF with code **BF2025**| [Get Deal](https://store.mingcute.com//?utm_source=punk) | Nov 15 - Dec 5 |
@@ -59,17 +65,25 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Vue School](https://vueschool.io/sales/blackfriday?friend=VUEPDF) | Comprehensive video courses for Vue, Nuxt, TypeScript, Pinia, and modern frontend practices, trusted by the Vue.js community. | 60% OFF a Yearly or Lifetime plan. Plus get 7 BONUS resources (worth $2,040) absolutely free | [Get Deal](https://vueschool.io/sales/blackfriday?friend=VUEPDF) | Live now |
 | [Certificates.dev](https://certificates.dev/?friend=VUEPDF) | Get certified with official Vue & Nuxt certifications, plus expert-reviewed certifications for React, Angular & JavaScript. Includes hands-on coding exams, not just MCQ. Trusted by devs from IBM, Ford and 680+ companies. | Up to 60% OFF all mid & senior certifications + Bonus: 2 AI Dev Courses + Any Junior Certification included FREE with purchase. | [Get Deal](https://certificates.dev/?friend=VUEPDF) | Live now |
 | [1:1 Guide for Engineering Managers](https://karloscodes.gumroad.com/l/team-1-1) | A guide for building better 1:1s through trust, encouragement, and real connection. | 60% OFF LIFETIME access | [Get Deal](https://karloscodes.gumroad.com/l/team-1-1/BLACKFDAY26) | Live now |
-| [Ditectrev Shop](https://shop.ditectrev.com) | Resources in PDF & EPUB formats to pass your next Azure, AWS, GCP, Scrum certification by open-source driven EdTech startup Ditectrev. | 80% OFF | [Get Deal](https://karloscodes.gumroad.com/l/team-1-1/BLACKFDAY26) | Nov 28th - Dec 1st |
+| [Codecourse](https://codecourse.com) | Practical screencasts for Laravel developers | 50% off any plan | [Get Deal](https://codecourse.com/pro) | Live now |
+| [Ditectrev Shop](https://shop.ditectrev.com) | Resources in PDF & EPUB formats to pass your next Azure, AWS, GCP, Scrum certification by open-source driven EdTech startup Ditectrev. | 80% OFF | [Get Deal](https://shop.ditectrev.com) | Nov 28th - Dec 1st |
+| [Educative](https://www.educative.io/unlimited?aff=VALz&utm_campaign=affiliate) | Text-based, video-free courses, including set up out-of-the-box for you Cloud Labs to practice hands-on without the need to set up an environment (and payments). | 62% OFF | [Get Deal](https://www.educative.io/unlimited?aff=VALz&utm_campaign=affiliate) | Live now |
+| [Coursera](https://imp.i384100.net/Qjm4Ba) | Learn from 350+ top universities and companies. | 40% off the annual price | [Get Deal](https://imp.i384100.net/Qjm4Ba) | Ends: December 1, 2025 11:59 PM UTC |
+| [AIDD – AI-Driven Development Masterclass](https://www.aidd.io?friend=VUEPDF) | Learn to code 20x faster with AI using real-world workflows like test generation, code reviews, and repo-aware agents. Includes free bonuses and a 30-day money-back guarantee. | 45% OFF | [Get Deal](https://www.aidd.io?friend=VUEPDF) | Live Now |
+| [Computer Graphics Zines](https://scroll-lock.gumroad.com/l/cgzines) | The perfect cheat sheet for all that want to learn linear algebra and trigonometry in an easy and engaging way. | 50% OFF | **50% OFF** with code **BLACKFRIDAY2025** | Nov 28 - Dec 10 |
 
 ## 🚀 SaaS Products
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
+| [OptionVisualizer](https://www.optionvisualizer.com)| The most advanced search engine for stock options, in a simple interface for all investors. |  30% OFF with code `CYBER2025` | [Redeem deal](https://www.optionvisualizer.com) | Nov 27 - Dec 7|
 | [Transcript LOL](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025)| Unlimited ai transcriptions, summaries, chat |  20% OFF with code **BF2025** (70% off on annual plans) | [Redeem deal](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 15 - Dec 7|
 | [SharpAPI](https://sharpapi.com/en/pricing) | AI-powered workflow automation API (e-commerce, marketing, HR & more) | **50% OFF** (use code `BF2025`) | [Get Deal](https://sharpapi.com/en/pricing) | Nov 24 – Dec 3 |
 | [PostFlow](https://postflow.app/?ref=punk) | Social media scheduler and platform to manage ALL your social media content. One click, all platforms, hours saved. | **30% OFF** (LIFETIME) with code **BF2025** | [Get Lifetime Deal](https://postflow.app/?ref=punk) | Nov 24 – Dec 1 |
 | [ChatUML](https://chatuml.com) | Generate Professional UML Diagrams with AI | **40% OFF** (use code `BLACKFRI25`) | [Get Deal](https://chatuml.com) | Nov 24 – Dec 1 |
 | [Notion Backups](https://notionbackups.com) | Easily back up and restore Notion workspaces | **40% off** on annual plans vs monthly pricing | [Get Started](https://notionbackups.com) | Nov 20 – Dec 4 |
+| Olivia | Market research recruiting on autopilot. | Over **50% off** on every slot with **`BLACKFRIDAY25`** | [useOlivia.com](https://useOlivia.com) | now – end of 2025 |
+| [Assista](https://assista.io) | Automatic time-tracking for Trello | **50% off FOREVER** with code **BF2025** on all plans | [Get Started](https://assista.io) | Nov 27 – Dec 27 |
 
 ## 🔧 Productivity Tools
 
@@ -81,18 +95,24 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Transcript LOL](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025)|  Unlimited ai transcriptions, summaries, chat |  20% OFF with code **BF2025** (70% off on annual plans) | [Redeem deal](https://transcript.lol?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 15 - Dec 7|
 | [DeskRest](https://deskrest.com/offers/?utm_source=awesome-cyber-monday-2025) | Smart break and posture reminder app for macOS. Transform your workday. | 60% OFF with code **BLACKFRIDAY** | [Get Lifetime Deal](https://deskrest.com/offers/?utm_source=awesome-cyber-monday-2025) | Nov 10 - Dec 3 |
 | [XGetter](https://xgetter.com/?utm_source=awesome-cyber-monday-2025) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Buy Once, Use Forever, 30% off with discount code **BLACKFRIDAY2025** | [Get Deals](https://xgetter.com/cn#pricing) | Nov 15 - Dec 1 |
-| [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | 50% OFF Lifetime | [Get Deals](https://apps.apple.com/ua/app/deskminder-reminders-tasks/id6740942938?mt=12) | Nov 24 - 28 |
+| [DeskMinder²](https://appps.od.ua/deskminder/) | A simple yet effective macOS app for people who get easily distracted. Create quick reminders & start tasks on your desktop | 30% OFF Lifetime | [Get Deals](https://apps.apple.com/ua/app/deskminder-reminders-tasks/id6740942938?mt=12) | Nov 30 - Dec 4 |
 | [Wins 3](https://wins.cool) |  Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. |40% OFF with code **BLACKFRIDAY2025** | [Get Deals](https://wins.cool/html/pricing.html#price-section-anchor)| Nov 15 - Dec 2 |
 | [Chronos Planner](https://bosc.app/chronos.html) | Take control of your life with better daily planning. Features daily pages, a fully-featured editor, calendar integration, fast local searching, and many more helpful tools. | 50% OFF one-time purchase - No Code Required | [Get Deal](https://bosc.app/chronos.html) | Nov 23 - Dec 8 |
-| [LinkYourFile](https://linkyourfile.com)| Link your local files or folders in any web application. | Lifetime 50% OFF with code **BLACKWEEKS_2025** | [Get Lifetime Deal](https://linkyourfile.com) | Nov 26th - Dec 6th | 
+| [LinkYourFile](https://linkyourfile.com)| Link your local files or folders in any web application. | Lifetime 50% OFF with code **BLACKWEEKS_2025** | [Get Lifetime Deal](https://linkyourfile.com) | Nov 26th - Dec 6th |
 | [NoteSLAYER](https://note-slayer.com) |  Your all-in-one note & task manager. From swift note additions to intuitive Kanban boards on Linux, Mac & Windows. A unified platform for all your productivity needs. Dive in today!. |30% OFF with code **BLACKFRIDAY25** | [Get Deals](https://note-slayer.lemonsqueezy.com)| Nov 15 - Dec 31 |
-
+| [Summate](https://summate.io) | AI-powered digest that turns newsletters, YouTube, and 50+ sources into personalized summaries. 2 hours to 10 minutes. | **50% OFF** with code **SUMMATEBF25** | [Get Deal](https://summate.io) | Nov 28 - Dec 5 |
+| [Timemator](https://timemator.com) |  Tracks your time while you work. Automatically!| Lifetime 50% OFF with code **TM-BLACKFRIDAY25** | [Get Lifetime Deal](https://timemator.com)| Nov 27 - Dec 5 |
+| [WhatPulse](https://whatpulse.org/?ref=acm2025) | WhatPulse maps your time, typing, clicking, and app usage into beautiful stats, and turns them into insights with your personal dashboard. | **35%** on first year on annual plan with code **BFCM2025** | [Get Deal](https://whatpulse.org/?ref=acm2025) | Nov 27 - Dec 3 |
+| [MuteDeck](https://mutedeck.com/?ref=acm2025) | Navigate any call app with consistent controls. Toggle Mute, Video, Record, Share, and Leave a meeting with a single press of a button. | **35%** off perpetual license with code **BFCM2025** | [Get Deal](https://mutedeck.com/?ref=acm2025) | Nov 27 - Dec 3 |
+| [Pictura: AI Photo Enhancer](https://apps.apple.com/us/app/pictura-ai-photo-enhancer/id6451364124) | Transform any photo into a crisp, studio-quality image in one tap. With AI-powered sharpening, colorisation, and upscaling (up to 4×), enhance selfies, anime scenes or vintage pictures effortlessly. | **40% OFF** Yearly automatically applied at checkout | [Redeem deal](https://apps.apple.com/us/app/pictura-ai-photo-enhancer/id6451364124) | Nov 27 - Dec 5 |
+| [Spencer](https://macspencer.app) | Save & restore window positions — across all virtual Desktops. Launch the right apps, hide others, and adjust number of Desktops to match your saved setup. Create layouts for different display setups and different tasks to stay organized and focused. | **40% OFF Lifetime** | [I want this!](https://macspencer.app?ref-acm2025) | Nov 26 - Dec 2 |
 
 ## 🌐 Hosting & Infrastructure
 
 | Product | Description | Discount | Deal Link | Dates |
 |---------|-------------|----------|-----------|-------|
 | [DeployHQ](https://www.deployhq.com/) | Deploy code from your repository to servers automatically | 50% OFF for 3 months (auto-applied at checkout) | [Get Deal](https://www.deployhq.com/??utm_source=website&utm_medium=sponsor&utm_campaign=saas-black-friday-2025) | Nov 25 - Dec 2 |
+| [PingPing.io](https://pingping.io) | Simple and reliable website uptime & SSL-certificate monitoring. Performs 30-second health checks, alerts you immediately on downtime or expiring SSL certs, and offers clean public status-pages + a full-featured API. | LIFETIME 25% OFF with code **CYBER25** | [Get Deal](https://pingping.io/?ref=awesome-cyber-monday) | Nov 27 - Dec 5 |
 
 ## 📱 Mobile Apps
 
@@ -110,6 +130,8 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [Quiet - Meditation Timer](https://apps.apple.com/app/apple-store/id6480446368) | A minimalist meditation timer. No guide. No distraction. | 68% OFF Lifetime with code <strong>BLACKFRIDAY25</strong> | [Get Deal](https://apps.apple.com/redeem?ctx=offercodes&id=6480446368&code=BLACKFRIDAY25) | Nov 25 - Dec 2 |
 | [Basket - Grocery List](https://apps.apple.com/app/apple-store/id6670761900) | Grocery list management for a minimalist. | 50% OFF Lifetime (No code needed) | [Get Deal](https://apps.apple.com/app/apple-store/id6670761900) | Nov 25 - Dec 2 |
 | [Tripsy Pro](http://tripsy.app/download) | Travel Planner for iOS and Mac. Finalist as App of the Year for iPhone 2024. | **50% OFF** on [Lifetime](https://buy.stripe.com/3cscMW3wb1aybqocMN?prefilled_promo_code=BLACKFRIDAY202550OFF) and [1-Year plan](https://buy.stripe.com/dR6aEO9Uz3iG2TS6os?prefilled_promo_code=BLACKFRIDAY202550OFF) | Nov 22 - Dec 2, 2025 |
+| [Daylish - Day Planner](https://apps.apple.com/us/app/daylish-visual-schedule/id6751201325) | A delightful day planner that helps you **never be late** again and *flow through your day* with ease. Get ready to leave on time with smart alarms and timers. | **75% OFF** Yearly ($19.99 → $4.99) with code **BF25** | [Get Deal](https://apps.apple.com/redeem?ctx=offercodes&id=6751201325&code=BF25) | Nov 27 - Dec 5 |
+| [Zenitizer - Meditation Timer](https://apps.apple.com/us/app/meditation-timer-zenitizer/id6444767911) | **Clutter-free meditation timer** designed for *unguided* meditation on iPhone and  Watch. Deep integration with Apple Health, Widgets and Shortcuts. Customizable with soothing sounds. | **50% OFF** Zenitizer+ Yearly (19.99$ → 9.99$) with code **BF25** | [Get Deal](https://apps.apple.com/redeem?ctx=offercodes&id=6444767911&code=BF25) | Nov 27 - Dec 5 |
 
 ## 🎮 Hardware & Gadgets
 
@@ -131,8 +153,10 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 | [AskCory](https://marketing.askcory.ai/) |	Elevate your marketing strategy with AI. Create customised plans and access industry benchmarks in minutes. | 67% OFF on all plans with code CM25 | [Get Deal](https://marketing.askcory.ai/billing) | Nov 28 - Dec 1 |
 | [UXWizz](https://www.uxwizz.com?ref=acm-2025) | Self-hosted Website Analytics with Session Recordings, Heatmaps, Error Tracking, AI and more. | 50% OFF - Buy Once, Use Forever | [Get Deal](https://uxwizz.com/pricing?ref=acm-2025) | Nov 23 - Dec 1 |
 | [Ring Tonic](https://ringtonic.app?ref=acm-2025) | Ring Tonic is a modern AI-Powered Call Tracking & Analytics platform that helps businesses understand which marketing efforts drive phone calls, automatically qualify leads, and extract valuable insights from every conversation—without the traditional 400-500% markup competitors charge. | 35% OFF & Lifetime Deal | [Get Deal](https://ringtonic.app/pricing?ref=acm-2025) | Nov 23 - Dec 2 |
+| [Subscription Day](https://appps.od.ua/subscription-day/) | A small but so useful app for your Menu Bar to keep track of your paid subscriptions and analyze statistics. | 30% OFF & Lifetime Deal | [Get Deal](https://apps.apple.com/ua/app/subscription-day-calendar/id6743316600?mt=12) | Nov 30 - Dec 4 |
 | [CampaignKit Email Validation](https://campaignkit.cc) | Email list validation and cleaning to protect your sender reputation and maximize deliverability. | 50% OFF with code BF2025 | [Get Deal](https://campaignkit.cc/pricing) | No 26 - Dec 6 |
 | [Startup Buffer](https://startupbuffer.com) | Startup Buffer is a launchpad platform to promote and boost your startup's visibility. Only 99 spots available. | 50% OFF with code **BF50** | [Get Deal](https://startupbuffer.com) | Nov 25 - Dec 7 |
+| [BetterMerge](https://bettermerge.com/) | Mail merge tool for Gmail and Google Sheets to send personalized mass emails with tracking | 50% OFF on yearly plans (auto-applied) | [Get Deal](https://bettermerge.com/pricing?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 24 - Dec 7 |
 
 ## 🔎 SEO
 
@@ -140,6 +164,16 @@ Cyber Monday is the perfect time to grab amazing deals on software, tools, cours
 |---------|-------------|----------|-----------|-------|
 | [SEO Utils](https://seoutils.app?ref=acm-2025) | All-in-one SEO platform for traditional SEO, local SEO, and AI Search Optimization (GEO/AEO). Track rankings across Google, Google Maps, Bing, ChatGPT, AI Overviews, and AI Mode with powerful analytics and automation. Enjoy privacy-first GSC integration with data retention beyond 16 months, SERP & semantic clustering, topic clusters, and auto-indexing for Google, Bing, Yandex, and more. | 20% OFF & Lifetime Deal | [Get Deal](https://seoutils.app/pricing?ref=acm-2025) | Nov 23 - Dec 2 |
 | [Checkbot: SEO checker extension](https://www.checkbot.io/) | Checkbot for Chrome tests 100s of pages at a time for SEO/speed/security problems like broken links, duplicate titles/headings/pages, invalid HTML/CSS/JavaScript, insecure pages, redirect chains and more. Test unlimited sites as often as you want including local/development sites. | 50% off first year on yearly plans | [Get Deal](https://www.checkbot.io/?coupon=NOV25) | Nov 25 - Dec 5 |
+
+## 🌐 Wordpress
+
+| Product | Description | Discount | Deal Link | Dates |
+|---------|-------------|----------|-----------|-------|
+| Bit Form | Advanced Drag & Drop Contact Form Builder Plugin for WordPress. Easily Create Multi-Step Form, Conversational Form, and Payment Forms & all kinds of dynamic forms | Upto 74% off | [Get Deal](https://bit-form.com/special-discount/?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 23 - Nov 30 |
+| Bit Integrations | Bit Integrations is a powerful no-code automation plugin and workflow automator built for WordPress users who want to simplify workflows and boost productivity — without writing a single line of code. | Upto 50% off | [Get Deal](https://bit-integrations.com/special-discount/?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 23 - Nov 30 |
+| Bit Flow | Bit Flows is an Advanced, Super Fast, Drag & Drop automation plugin. Automation feels like Zapier inside WordPress. | Upto 45 %off | [Get Deal](https://bit-flows.com/special-discount/?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 23 - Nov 30 |
+| Bit Social | Bit Social is an Advanced Social Media Scheduling and Auto Posting plugin for WordPress, making it the top alternative to Buffer and Publer. | Upto 62% off | [Get Deal](https://bit-social.com/special-discount/?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 23 - Nov 30 |
+| [Tenwrite](https://tenwrite.com/) | Publish Google Docs to WordPress and Blogger with perfect formatting and automation | 50% OFF on yearly plans (auto-applied) | [Get Deal](https://tenwrite.com/pricing?utm_source=github&utm_campaign=awesome-cyber-monday-2025) | Nov 24 - Dec 7 |
 
 ---
 
